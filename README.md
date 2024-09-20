@@ -1,3 +1,15 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+</style>
+<style>
+  * {
+  font-family: "Roboto", system-ui;
+  font-weight: 300;
+  font-style: normal;
+}
+
+</style>
+
 <h1 align="left">Hi 👋, I'm Arafat Sable</h1>
 <h4 align="left">I Love Full Stack Web development & Currently Pursuing Computer Science Engineering.</h4>
 
