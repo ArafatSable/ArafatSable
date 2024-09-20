@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Arafat Sable</h1>
-<h3 align="center">I Love Full Stack Web development & Currently Pursuing Computer Science Engineering.</h3>
+<h1 align="left">Hi 👋, I'm Arafat Sable</h1>
+<h4 align="left">I Love Full Stack Web development & Currently Pursuing Computer Science Engineering.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsable&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsable" /> </p>
 
