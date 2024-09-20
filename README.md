@@ -9,7 +9,7 @@
 
 ### 🔭 Current Projects:
 - [Chiplun Tourist Spots](https://github.com/ArafatSable/Chiplun_Gems)  
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArafatSable&repo=Chiplun_Gems" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArafatSable&repo=Chiplun_Gems"  />
 
 ---
 
