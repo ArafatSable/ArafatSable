@@ -1,10 +1,6 @@
 <h1 align="left">Hi 👋, I'm Arafat Sable</h1>
 <h4 align="left">I Love Full Stack Web development & Currently Pursuing Computer Science Engineering.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsable&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsable" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafatsable" alt="arafatsable" /></a> </p>
-
 - 🔭 I’m currently working on [Chiplun Tourist Spots.](https://github.com/ArafatSable/Chiplun_Gems)
 
 - 🌱 I’m currently learning **Google cloud, Docker.**
@@ -16,6 +12,14 @@
 - 📫 How to reach me **arafatsable@gmail.com**
 
 - ⚡ Fun fact **I love Fish & not Eat it.**
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arafatsable&label=Profile%20views&color=0e75b6&style=flat" alt="arafatsable" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arafatsable" alt="arafatsable" /></a> </p>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
