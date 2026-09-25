@@ -1,83 +1,57 @@
-<h1 align="center">Hi there, I'm Arafat Sable 👋</h1>
-<h3 align="center">Full Stack Developer | Cloud & DevOps Enthusiast | Computer Science Graduate</h3>
+# Hi, I'm Arafat Sable 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arafatsable&label=Profile%20views&color=green&style=flat" alt="arafatsable" />
-</p>
+**Zoho Creator Certified Developer** building enterprise low-code applications and
+government API integrations. B.Tech CSE (Nirma University), AWS Certified Solutions
+Architect – Associate. Working fully remotely across IST/GST time zones.
 
----
-
-### 🔭 Projects & Work
-- [Chiplun Tourist Spots](https://github.com/ArafatSable/Chiplun_Gems) – A MERN stack web app showcasing local tourist gems.  
-- **CSV to JSON Data Pipeline (AWS S3 + Flask)** – Automated pipeline to process, convert, and store data in S3 buckets.  
-- **Portfolio Website** – [My Portfolio](https://arafatsable.github.io/Portfolio_Website_Arafat/) showcasing my projects and skills.  
-- Built **frontend file uploader** integrated with AWS S3, with login & user-based file management.  
+📍 Maharashtra, India · Open to Remote
+🔗 [Portfolio](https://arafatsable.github.io/Portfolio_Website_Arafat/) ·
+[LinkedIn](https://linkedin.com/in/Arafatsable) · arafatsable@gmail.com
 
 ---
 
-### 🌱 Currently Exploring
-- Advanced **DevOps practices** (Terraform, Kubernetes, CI/CD pipelines).  
-- Cloud Platforms (**AWS & Google Cloud**).  
-- Modern frontend frameworks and performance optimization.  
+### What I'm working on
+
+**Government data reporting integration** — a Zoho Creator application that submits
+institutional data to the UAE Ministry of Higher Education's CHEDS/GSB API across 15
+reporting modules. Deluge functions for add/update/delete and bulk-push against staging
+and production, with error handling, batch limits and retry logic. Raised bulk-push
+throughput from 25 to 110 records per run by optimising lookup functions.
+
+**Student Information System (Zoho Creator)** — learning-outcome attainment module with
+3 custom JavaScript widgets, academic-integrity case management, feedback/QA dashboards,
+and a visa expiry scheduler integrated with Zoho CRM and Zoho Books.
+
+*Client work delivered under NDA — details generalised.*
 
 ---
 
-### 💻 Skills & Tools
+### Tech
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-
-  <!-- Cloud & DevOps -->
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-</p>
+**Zoho** · Creator · Deluge · CRM · Books · Widgets (JS)
+**Integration** · REST APIs · JSON · Postman · OAuth
+**Languages** · Python · JavaScript · Node.js · SQL
+**Cloud & DevOps** · AWS (ECS, S3, CloudFront, CloudWatch) · Docker · Terraform · GitHub Actions
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArafatSable&show_icons=true&theme=radical" />
-</p>
+### Projects
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArafatSable&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ArafatSable&layout=compact&theme=radical" />
-</p>
+| Project | Stack | What it does |
+| --- | --- | --- |
+| [cheds-import-tool](https://github.com/ArafatSable/cheds-import-tool) | Python, Streamlit | Converts Ministry HEDB Excel exports into Zoho Creator import-ready files using per-module mapping configs |
+| [Financial Data Pair Trading Platform](https://github.com/ArafatSable/Pair_trading) | React, Node.js, MongoDB | Real-time visualisations of financial pairs with analytics APIs |
+| [Real-Time Data Pipeline](https://github.com/ArafatSable/Real_Time_Data_Streaming) | Kafka, Spark, Python, SQL | Ingestion pipeline for high-frequency financial data with data-quality checks |
+| Image Regeneration using U-Net | Python, TensorFlow, OpenCV | Reconstructs clear images from blurred datasets; patch-based preprocessing |
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ArafatSable&theme=monokai&row=1&column=6" />
-  </a>
-</p>
+### Certifications
+
+- Zoho Creator Certified Developer – Associate *(Apr 2026)*
+- AWS Certified Solutions Architect – Associate, SAA-C03 *(Mar 2026)*
+- AWS Certified Cloud Practitioner *(Jan 2026)*
 
 ---
 
-### 📫 Let’s Connect
-- 💼 [LinkedIn](https://linkedin.com/in/arafatsable)  
-- 🖥 [GitHub](https://github.com/ArafatSable)  
-- 📧 [Email Me](mailto:arafatsable@gmail.com)  
-- 🔗 [Portfolio](https://arafatsable.github.io/Portfolio_Website_Arafat/)  
-
----
-
-⭐️ *Always curious to learn, build, and collaborate on exciting projects.* 🚀
+![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArafatSable&show_icons=true&hide_border=true)
