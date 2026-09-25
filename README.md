@@ -51,7 +51,3 @@ and a visa expiry scheduler integrated with Zoho CRM and Zoho Books.
 - Zoho Creator Certified Developer – Associate *(Apr 2026)*
 - AWS Certified Solutions Architect – Associate, SAA-C03 *(Mar 2026)*
 - AWS Certified Cloud Practitioner *(Jan 2026)*
-
----
-
-![Arafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArafatSable&show_icons=true&hide_border=true)
